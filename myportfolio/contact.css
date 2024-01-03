@@ -1,0 +1,29 @@
+#contactbar{
+    width: 70%;
+    font-weight: bold;
+    border-width: 1px ;
+    border-style: groove;
+    padding: 5px;
+    align-items: flex-end;
+    display: flex;
+    align-content: end;
+    text-align: right;
+    padding-left: 85%;
+    position: fixed;
+    transition: 0.3 ease;
+    z-index: 1;
+    border-color: rgb(161, 159, 159);
+}
+#contactbutton{
+    position: sticky;
+    padding: px;
+    border-radius: 8%;
+    background-color: rgb(160, 239, 213);
+    color: black;
+    
+    width: 100px;
+    text-align: center;
+    border-width: 0.5px;
+    border-style: solid;
+
+}
